@@ -2,6 +2,3 @@
 build/
 .git/
 .github/
-ios/
-android/
-test/
